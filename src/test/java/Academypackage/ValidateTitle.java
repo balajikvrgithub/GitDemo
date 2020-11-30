@@ -39,6 +39,8 @@ public class ValidateTitle extends Base {
 		log.info("title name extracted from the webpage is " + titlename);
 		Assert.assertEquals(titlename, "Courses122");
 		log.info("titlename is asserted");
+		
+		System.out.println("validate title method syso");
 	}
 	
 	@AfterClass

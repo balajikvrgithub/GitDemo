@@ -51,6 +51,10 @@ public class Homepage extends Base{
 		System.out.println("post jira1");
 		System.out.println("post jira2");
 		
+		System.out.println("post jira3");
+		System.out.println("post jira4");
+		System.out.println("post jira5");
+		
 //		lop.email().sendKeys(email);
 //		log.debug("email id entered");
 //		lop.password().sendKeys(password);
