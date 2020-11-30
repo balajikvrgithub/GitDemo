@@ -1,0 +1,7 @@
+23:52:18.947 [main] DEBUG Academypackage.Homepage - login button is clicked
+23:52:19.001 [main] INFO  Academypackage.Homepage - an user is checked using dataprovider concept
+23:52:24.663 [main] DEBUG Academypackage.Homepage - email id entered
+23:52:24.743 [main] DEBUG Academypackage.Homepage - password id entered
+23:52:25.226 [main] DEBUG Academypackage.Homepage - login button is clicked
+23:52:25.227 [main] INFO  Academypackage.Homepage - an user is checked using dataprovider concept
+23:52:28.793 [main] INFO  Academypackage.ValidateTitle - driver initialized in validatetitle class

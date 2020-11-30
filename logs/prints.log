@@ -1,0 +1,5 @@
+17:01:18.452 [main] INFO  Academypackage.Homepage - driver initialized in homepage class
+17:03:22.447 [main] INFO  Academypackage.Homepage - driver initialized in homepage class
+21:42:29.535 [TestNG-tests-1] INFO  Academypackage.Homepage - driver initialized in homepage class
+21:42:29.535 [TestNG-tests-2] INFO  Academypackage.ValidateTitle - driver initialized in validatetitle class
+21:42:39.187 [TestNG-tests-2] INFO  Academypackage.ValidateTitle - title name extracted from the webpage is Courses

@@ -1,0 +1,5 @@
+15:59:10.220 [TestNG-tests-1] INFO  Academypackage.Homepage - an user is checked using dataprovider concept
+16:58:06.992 [TestNG-tests-1] INFO  Academypackage.Homepage - driver initialized in homepage class
+16:58:07.431 [TestNG-tests-2] INFO  Academypackage.ValidateTitle - driver initialized in validatetitle class
+16:58:16.449 [TestNG-tests-2] INFO  Academypackage.ValidateTitle - title name extracted from the webpage is Courses
+16:59:04.661 [main] INFO  Academypackage.Homepage - driver initialized in homepage class
