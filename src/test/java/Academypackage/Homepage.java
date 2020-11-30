@@ -47,6 +47,9 @@ public class Homepage extends Base{
 		fpp.recoveryemail().sendKeys("recoveryai@ggmial.com");
 		Thread.sleep(2000);
 		fpp.send_me_instructions().click();
+		System.out.println("post jira");
+		System.out.println("post jira1");
+		System.out.println("post jira2");
 		
 //		lop.email().sendKeys(email);
 //		log.debug("email id entered");
