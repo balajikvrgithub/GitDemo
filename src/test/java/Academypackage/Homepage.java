@@ -105,6 +105,12 @@ public class Homepage extends Base{
 		System.out.println("method111");
 	}
 	
+	@Test
+	public void method1111()
+	{
+		System.out.println("method1111");
+	}
+	
 	@AfterTest
 	public void teardown()
 	{
