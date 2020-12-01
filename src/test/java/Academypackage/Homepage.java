@@ -87,6 +87,24 @@ public class Homepage extends Base{
 //		return data;
 //	}
 	
+	@Test
+	public void method1()
+	{
+		System.out.println("method1");
+	}
+	
+	@Test
+	public void method11()
+	{
+		System.out.println("method11");
+	}
+	
+	@Test
+	public void method111()
+	{
+		System.out.println("method111");
+	}
+	
 	@AfterTest
 	public void teardown()
 	{

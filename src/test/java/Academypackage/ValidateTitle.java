@@ -43,6 +43,24 @@ public class ValidateTitle extends Base {
 		System.out.println("validate title method syso");
 	}
 	
+	@Test
+	public void method2()
+	{
+		System.out.println("method 2");
+	}
+	
+	@Test
+	public void method22()
+	{
+		System.out.println("method 22");
+	}
+	
+	@Test
+	public void method222()
+	{
+		System.out.println("method 222");
+	}
+	
 	@AfterClass
 	public void teardown()
 	{
